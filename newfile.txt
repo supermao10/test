@@ -1,2 +1,1 @@
-first line
-and some more file 
+working tree -> staging area -> repository
